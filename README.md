@@ -28,12 +28,19 @@ origination amount. Each of the plots on these features were helping to describe
 the Prosper borrower and assess a type of profile or risk factor as to if they
 would be able to pay off their loans with Prosper. 
 
-In summary, most borrowers were in the state of California, with a salary income
-range of 25000 to 49999, not home-owners, credit grade of 'C', work occupation of 
-'Other', mean borrower rate, borrower APR of of 19% , 21%, respectively, Prosper 
-score of 4, taking out loans in the category of debt consolidation and in a loan 
-status of current, 25% debt to income ratio, making on average monthly payments 
-of 272, tending to be employed. 
+In summary, borrower charactersitics were: 
+    1. State of California resident
+    2. Salary income range of $25000 to $49999 
+    3. Not home-owners
+    4. Credit grade of 'C' 
+    5. Work occupation of 'Other'
+    6. Mean Borrower Rate/Borrower APR of 19% , 21%, respectively
+    7. Prosper Score of 4
+    8. Loan Listing Category of 'Debt Consolidation' 
+    9. Loan status of 'Current'
+    10. Debt to Income Ratio of 25%
+    11. Making on average, monthly payments of $272
+    12. Majority considered as 'Employed'
 
 
 ## Key Insights for Presentation
